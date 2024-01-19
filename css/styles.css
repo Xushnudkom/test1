@@ -1,0 +1,199 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightslategrey;
+    
+}
+
+.dots {
+    display: flex;
+    align-items: center;
+    margin-left: 43.5%;   
+    letter-spacing: 5px;
+    font-size: 40px;
+}
+
+.dot-1 {
+    opacity: 0.7;
+}
+
+.dot-2 {
+    opacity: 0.4;
+}
+
+.dot-3 {
+    opacity: 0.4;
+}
+
+.nav-h2 {
+    word-spacing: 5px;
+    color: #222;
+    letter-spacing: 3px;
+    
+    
+}
+
+.visa-logo {
+    width: 70px;
+    height: 90px;
+    border-top: 2%;
+    
+       
+    
+}
+
+.visa-text {
+    font-weight: 800;
+    opacity: 70%;
+    margin-left: 30px;
+    font-size: 20px;
+    
+   
+}
+
+.visa-1 {
+    display: flex;
+    align-items: center ;
+    text-align: center;
+    margin-left: 22px;
+    
+    
+        
+}
+
+.visa-border:hover {
+    background-color: #4444;
+    margin:auto;
+    
+}
+
+.visa-border {
+    border-top: 2px rgba(0, 0, 0, 0.241) solid ;
+}
+
+
+
+.mastercard {
+    display: flex;
+    align-items: center ;
+    margin-left: 22px;
+    
+}
+
+.mastercard-logo {
+    width: 70px;
+    height: 90px;
+}
+
+.mastercard-text {
+    font-weight: 800;
+    opacity: 70%;
+    margin-left: 30px;
+    font-size: 20px; 
+}
+
+.maestro {
+    display: flex;
+    align-items: center ;
+    margin-left: 22px;
+}
+
+.maestro-logo {
+    width: 70px;
+    height: 90px;
+}
+
+.maestro-text {
+    font-weight: 800;
+    opacity: 70%;
+    margin-left: 20%;
+    font-size: 20px; 
+}
+
+.start {
+    text-align: center;
+    
+}
+
+.content {
+    margin-top: 10%;
+    
+    
+    
+    
+}
+
+.start-all {
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 7%;
+    /* padding-top: 3%; */
+    background-color: white;
+    border-top-right-radius: 7px;
+    border-top-left-radius: 7px;
+}
+
+.link-1 {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    color: black;
+    opacity: 60%;
+    
+    
+}
+
+.link-2 {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    color: black;
+    
+}
+
+.link-3 {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    color: black;
+    opacity: 60%;
+    
+}
+
+.check {
+    margin-left: 30%;
+}
+
+.next-step {
+    font-weight: 800;
+    word-wrap: 20%;
+    background-color: #2A7BCB;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    text-align: center;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding: 1.5%;
+    letter-spacing: 5px;
+    
+}
+.next-step:hover {
+    background-color:#067df3;
+    color: white;
+}
+
+.link-list {
+    text-decoration: none;
+    color: white;
+    
+}
+
+.next-step:active {
+    opacity: 0.1;
+    color: aliceblue;
+}
+
